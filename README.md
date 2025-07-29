@@ -12,7 +12,7 @@ Roll Number:231b352
 
 Email: 231b352@juetguna.in
 
-<Solution code to part F>
+< Lab-1 Q solution GTA.java >
 
 import java.util.Scanner;
 
